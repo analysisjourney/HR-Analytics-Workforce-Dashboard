@@ -1,10 +1,10 @@
 # HR Analytics Dashboard Case Study
 
 ## Project Overview
-This project analyzes workforce readiness, attrition, HR risk indicators, and seasonal workforce pressure using Power BI.
+This Case Study analyzes workforce readiness, attrition, HR risk indicators, and seasonal workforce pressure using Power BI.
 
 ## Business Problem
-During HR Operations training, I noticed that some organizations face workforce gaps during high-demand seasons such as Hajj. This project explores how data can help identify workforce gaps, risk levels, and readiness challenges.
+During HR Operations training, I noticed that some organizations face workforce gaps during high-demand seasons such as Hajj. This Case Study explores how data can help identify workforce gaps, risk levels, and readiness challenges.
 
 ## Tools Used
 Power BI, Excel, DAX, Data Modeling, Data Visualization
