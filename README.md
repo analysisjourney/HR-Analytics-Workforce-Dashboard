@@ -1,6 +1,6 @@
 # HR Analytics Dashboard Case Study
 
-## Project Overview
+## Case Study Overview
 This Case Study analyzes workforce readiness, attrition, HR risk indicators, and seasonal workforce pressure using Power BI.
 
 ## Business Problem
